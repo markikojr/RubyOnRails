@@ -1,5 +1,9 @@
 # README
 
+This is a Ruby On Rails test. It creates a web application where one can create, update and delete a simple Notebook and make annotations.
+
+This application uses a bootstrap and 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

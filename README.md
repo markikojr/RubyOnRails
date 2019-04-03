@@ -1,28 +1,16 @@
 # README
 
-This is a Ruby On Rails test. It creates a web application where one can create, update and delete a simple Notebook and make annotations.
+This is a Ruby On Rails test. It creates a web application where one can create, update and delete a simple Notebook and make annotations accessing it a database.
 
-This application uses a bootstrap and 
+This application uses a bootstrap gem:
+https://github.com/twbs/bootstrap-rubygem
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It also uses will paginate gem:
+https://github.com/mislav/will_paginate
 
-Things you may want to cover:
+* Ruby version: ruby 2.6.1p33
 
-* Ruby version
+* Database: sqlite3
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
